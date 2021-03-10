@@ -57,7 +57,7 @@ int main()
 		result = calculator.Calculate(input);
 		std::cout << "Result: " << result << std::endl;
 		LOG("");
-
-		return 0;
 	}
+	
+	return 0;
 }
