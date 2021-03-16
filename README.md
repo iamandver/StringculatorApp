@@ -1,6 +1,5 @@
 # Stringculator
-A calculator console app that takes a simple math equation, and returns the answer.
-
+A calculator console app that takes a simple math equation, and prints the solution.
 Knows bugs:
 - a syntax error causes the stored result to be overwritten by 0
 
