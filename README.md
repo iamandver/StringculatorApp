@@ -11,7 +11,7 @@ A brief explanation of components:
 
 Calculator
 
-Nothing more than a wrapper that gets receives the input from the user and delegates it to other translation units.
+Nothing more than a wrapper that gets the input from the user and delegates it to other translation units.
 
 InputParser
 
